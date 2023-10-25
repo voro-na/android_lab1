@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="input_placeholder">Enter the color</string>
+    <string name="change_color">Set background</string>
+    <string name="choose_color">Type background color: red, green, blue</string>
+    <string name="error_message">Error: wrong color name</string>
+</resources>
